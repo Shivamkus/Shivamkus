@@ -1,3 +1,8 @@
+![wave](https://user-images.githubusercontent.com/77038659/130917013-c209e83c-4b93-4de6-9258-5f318f24ab60.png)
+<h1 align="center">Hi <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="70">, I am Shivam Kushwah </h1>
+<h4 align="center" margin="0px">I am a MERN Stack Developer, passionate about building digital products that improve the everyday experience for people.</h4>
+
+<img align='right' rel:auto_play="1" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="250">
 # 💫 About Me:
 i'm Currently Working On Magic Technolabs Pvt. ltd.
 
