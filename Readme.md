@@ -10,7 +10,7 @@ class Bio extends SoftwareDeveloper {
   name     = 'Shivam Kushwah';
   title    =  'MERN Stack Developer';
   location = 'Indore, India';
- Current location = 'Ahmedabad, India';
+ Current-location = 'Ahmedabad, India';
   availability = "Available to hire!!";
 }
 class Skills extends SoftwareDeveloper {
