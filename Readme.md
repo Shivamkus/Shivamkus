@@ -2,6 +2,25 @@
 <h1 align="center">Hi <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="70">, I am Shivam Kushwah </h1>
 <h4 align="center" margin="0px">I am a MERN Stack Developer, passionate about building digital products that improve the everyday experience for people.</h4>
 
+
+
+```js
+import SoftwareDeveloper from 'India';
+class Bio extends SoftwareDeveloper {
+  name     = 'Shivam Kushwah';
+  title    =  'MERN Stack Developer';
+  location = 'Indore, India';
+ Current location = 'Ahmedabad, India';
+  availability = "Available to hire!!";
+}
+class Skills extends SoftwareDeveloper {
+  frontend : ['JavaScript', 'HTML', 'CSS', 'React', 'Redux','Nextjs'];
+  backend: ['NodeJs', 'ExpressJs, NestJs'];
+  database:['Mongodb, MySql']
+  ui : ['Material UI','Tailwind css','...'];
+}
+```
+<!--🪳ROACH&🕷️SPIDER--> 
 <img align='right' rel:auto_play="1" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="250">
 # 💫 About Me:
 i'm Currently Working On Magic Technolabs Pvt. ltd.
